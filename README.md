@@ -1,2 +1,1 @@
-food
-====
+Cloud code project for food.https://cn.avoscloud.com
