@@ -1,1 +1,1 @@
-Cloud code project for food.https://cn.avoscloud.com
+Backend server based on node.js
